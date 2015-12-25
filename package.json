@@ -1,0 +1,17 @@
+{
+  "name": "generate-issue",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nyamogera <nyamogera@gmail.com> (http://nyamogera.net/)",
+  "license": "MIT",
+  "dependencies": {
+    "date-utils": "^1.2.17",
+    "inquirer": "^0.11.0",
+    "opener": "^1.4.1",
+    "shelljs": "^0.5.3"
+  }
+}
